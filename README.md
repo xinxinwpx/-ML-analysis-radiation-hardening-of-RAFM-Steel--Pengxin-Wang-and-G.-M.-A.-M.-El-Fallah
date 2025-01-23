@@ -1,4 +1,4 @@
-Advanced Machine Learning Analysis of Radiation Hardening in Reduced-Activation Ferritic/Martensitic Steels 
+Advanced Machine Learning Analysis of Radiation Hardening in Reduced-Activation Ferritic/Martensitic Steels
 Authors
 Pengxin Wang, G. M. A. M. El-Fallah
 
@@ -32,10 +32,9 @@ bash
 Copy
 Edit
 python CNN_training.py  
-
 Contact
 For questions or further information, feel free to contact:
-Contact Dr Gebril El-Fallah:  gmae2@leicester.ac.uk
+
+Dr. Gebril El-Fallah: gmae2@leicester.ac.uk
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
